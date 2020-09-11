@@ -47,7 +47,7 @@
     "mongodb": "^3.2.2",
     "mongoose": "^5.4.20",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "resource-router-middleware": "^0.7.0"
   },
   "devDependencies": {
